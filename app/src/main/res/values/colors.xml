@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Soft Dieter Rams / Apple-esque pastel base, Bauhaus accents retained
+         as small geometric highlights rather than dominant blocks. -->
+    <color name="background">#FAFAF8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_light">#EFEFEC</color>
+
+    <color name="primary">#3D5AFE</color>        <!-- soft indigo-blue -->
+    <color name="primary_dark">#2E45D1</color>
+    <color name="accent">#FF6B5B</color>          <!-- soft coral-red   -->
+    <color name="accent_yellow">#FFD166</color>   <!-- soft amber       -->
+    <color name="accent_mint">#4CD3A5</color>     <!-- soft mint green  -->
+
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8A8A8E</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_accent">#FFFFFF</color>
+
+    <color name="danger">#FF6B5B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1C1C1E</color>
+    <color name="divider">#E5E5E2</color>
+
+    <color name="wheel_selection_pastel">#EAF0FF</color>
+
+    <!-- Apple-style switch: vibrant green ON, neutral grey OFF -->
+    <color name="switch_on_track">#34C759</color>
+    <color name="switch_off_track">#E9E9EB</color>
+    <color name="switch_thumb">#FFFFFF</color>
+    <color name="switch_thumb_stroke">#D9D9DE</color>
+
+    <!-- Pastel accents for weekly chart bars -->
+    <color name="chart_bar_fast">#4CD3A5</color>
+    <color name="chart_bar_mid">#FFD166</color>
+    <color name="chart_bar_slow">#FF6B5B</color>
+    <color name="chart_grid">#EFEFEC</color>
+</resources>
